@@ -41,7 +41,7 @@ TC-026 |	Check user register/login with phone number	| The system will direct us
 TC-027 |	Check user register/login with the correct Kode OTP	| The system will direct user to the homepage with an account signed in | |
 TC-028 |	Check user register/login with the false Kode OTP	| The system will show notice that Kode OTP is false | [`check-login-phone.py`](https://github.com/vwxyraz/AutomatedTesting-Assessment-Kumparan/blob/main/check-login-func/check-login-phone.py) |
 
-The blank spot in script means it needs to be test manually. But if you have any solution don't hesitate to reach me, as I am new to Selenium and Quality Assurance
+The blank spot in script means it needs to be test manually. But if you have any solution don't hesitate to reach me, as I am new to Selenium and Quality Assurance and open to any critics and suggestions
 
 ### Documentation and Reports
 If you want to see more documentation about this project feel free to check out this link [Documentation and Reports](https://drive.google.com/drive/folders/1UYw83j5st-7GIBMpnsWYHwzd03Jc9Hzd?usp=sharing)
